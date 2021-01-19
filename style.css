@@ -1,0 +1,84 @@
+*{margin:0;padding:0}
+.logo{
+    width:200px;
+}
+.bag, img{
+    width:60%;
+}
+.services h1{
+    font-size: 60px;
+    font-weight: 700;
+    color:blue;
+    letter-spacing:0in;
+    font-family: sans-serif;
+
+
+}
+.services h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: crimson;
+}
+.services{
+    width:300px;
+    font-size: 15px;
+    color:#999;
+    font-family: arial;
+}
+.buy-button{
+    background-color: #fb5200;
+    padding:  10px 30px;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    
+}
+.buy-button:hover{
+    background: brown;
+    transition: 2s;
+}
+.product-icon{
+    width:90px;
+    margin-left:10px;
+    margin:auto;
+}
+.product-dec{
+    width:70%;
+    height: 120px;
+    border-radius:15px;
+    
+}
+.product-sell,h5{
+    font-size:25px;
+    font-weight: 700;
+    color:#666 ;
+}
+.product-sell,p{
+    font-size: 15px;
+    font-weight: 400;
+    
+}
+
+.right-image{
+    width:100%;
+    margin-top: 60px;
+    margin-right: 40px;
+
+
+}
+.price{
+    color:greenyellow;
+}
+.fa-icon{
+    margin-right:10px;
+    background:#fb5200;
+    font-size: 13px;
+}
+.card-title{
+    font-size: 16px;
+    font-weight: 700;
+}
+.backpack-card{
+    border:0;
+    border-radius: 10px;
+}
